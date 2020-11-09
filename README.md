@@ -23,5 +23,5 @@ Using Cheltenham + 10km radius
 <tr><td>031FWBSE570</td><td>51.89378,-2.25333</td><td>River Severn</td><td>River Severn at Sandhurst and Maisemore including Walham and Severnside Farm</td></tr>
 <tr><td>031FWFSE520</td><td>51.99171,-2.14531</td><td>River Severn</td><td>River Severn at Tewkesbury</td></tr>
 <tr><td>031FWFCH20</td><td>51.89836,-2.07715</td><td>River Chelt</td><td>River Chelt in Cheltenham Town</td></tr>
-<tr><td>031FWFSE530</td><td>51.9567,-2.22099</td><td>River Severn</td><td>River Severn at Chaceley and Haw Bridge including Tirley and Town Street</td></tr></tbody></html>
+<tr><td>031FWFSE530</td><td>51.9567,-2.22099</td><td>River Severn</td><td>River Severn at Chaceley and Haw Bridge including Tirley and Town Street</td></tr></tbody>
 <!-- table_marker ends -->
