@@ -6,7 +6,7 @@ import pathlib
 import json
 
 string_output  = "| ID | Location | River or Sea | Description |"
-string_output += "\n|--|--|--|--|--|"
+string_output += "\n|---|---|---|---|---|"
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open( root / "latest.json", 'r') as filehandle:
     items = json.load(filehandle)
