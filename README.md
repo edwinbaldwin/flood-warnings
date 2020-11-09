@@ -8,7 +8,7 @@ Using Cheltenham + 10km radius
 
 <!-- table_marker starts -->
 | ID | Location | River or Sea | Description |
-|--|--|--|--|
+|---|---|---|---|
  | 031FWFCH30 | 51.91476,-2.10733 | River Chelt | River Chelt at Springbank, Cheltenham |
  | 031WAF212 | 51.92382,-2.14905 | Hatherley, Horsbere, Wotton, Sud, Twyver, Daniels | Rivers in Tewkesbury, Cheltenham and Gloucester |
  | 033WAF204 | 52.23828,-1.63216 | Avon, St Johns, Fishers | Low-lying land and roads between Rugby and Bidford including caravan parks and farmland |
