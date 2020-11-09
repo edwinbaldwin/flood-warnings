@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 description: Tracking local flood alerts and warnings over time using GitHub actions and environment agency beta public API
 licence_text: This uses Environment Agency flood and river level data from the real-time data API (Beta)
+markdown: kramdown
+show_downloads: false
