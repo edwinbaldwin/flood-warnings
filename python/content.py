@@ -5,8 +5,7 @@ import random
 import pathlib
 import json
 
-string_output  = "| ID | Location | River or Sea | Description |"
-string_output += "\n|---|---|---|---|"
+string_output  = "<table><thead>\n<tr><th>ID</th><th>Location</th><th>River or Sea</th><th>Description</th>\n</tr>\n</thead>\n<tbody>"
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open( root / "latest.json", 'r') as filehandle:
     items = json.load(filehandle)
@@ -16,8 +15,8 @@ with open( root / "latest.json", 'r') as filehandle:
         v3 = item['long']
         v4 = item['riverOrSea']
         v5 = item['description']
-        string_output += f"\n| {v1} | {v2},{v3} | {v4} | {v5} |"
-
+        string_output += f"\n<tr><td>{v1}</td><td>{v2},{v3}</td><td>{v4}</td><td>{v5}</td></tr>"
+string_output += "</tbody></html>"
 
 # processing
 if __name__ == "__main__":
