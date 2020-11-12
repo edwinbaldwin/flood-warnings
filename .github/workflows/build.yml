@@ -1,11 +1,11 @@
-name: Download
+name: Scheduled Build
 on:
   push:
     branches:
       - master
   workflow_dispatch:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '0/30 * * * *'
 
 jobs:
   scheduled:
