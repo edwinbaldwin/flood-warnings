@@ -14,9 +14,9 @@ with open( root / "latest.json", 'r') as filehandle:
         v2 = item['lat']
         v3 = item['long']
         try:
-          v4 = item['riverOrSea']
-        except IndexError:
-          v4 = "unknown"   
+           v4 = item['riverOrSea']
+        except KeyError:
+           continue 
         v5 = item['description']
         string_output += f"\n<tr><td>{v1}</td><td>{v2},{v3}</td><td>{v4}</td><td>{v5}</td></tr>"
 string_output += "</tbody></html>"
