@@ -10,13 +10,13 @@ Using Cheltenham + 10km radius
 <tbody>
 <tr><td>031FWFCH30</td><td>51.91476,-2.10733</td><td>River Chelt</td><td>River Chelt at Springbank, Cheltenham</td></tr>
 <tr><td>031FWFSE545</td><td>51.96755,-2.18759</td><td>River Severn</td><td>River Severn at Deerhurst</td></tr>
-<tr><td>031WAF214</td><td>51.91771,-2.23168</td><td>Severn Estuary</td><td>River Severn from Tewkesbury to Gloucester</td></tr>
+<tr><td>031WAF214</td><td>51.91768,-2.23172</td><td>Severn Estuary</td><td>River Severn from Tewkesbury to Gloucester</td></tr>
 <tr><td>031WAT217</td><td>51.69439,-2.56551</td><td>Severn Estuary</td><td>Severn estuary from Gloucester to Sharpness, including Sandhurst and Maisemore</td></tr>
 <tr><td>031FWFSE540</td><td>51.96677,-2.19367</td><td>River Severn</td><td>River Severn at Abbots Court, Deerhurst</td></tr>
 <tr><td>061WAF02Churn</td><td>51.68995,-1.9389</td><td>River Churn, Hilcot Brook, Daglingworth Stream, Gumstool Brook</td><td>River Churn from Coberley to Cerney Wick and also The Hilcot Brook, The Daglingworth Stream and The Gumstool Brook</td></tr>
-<tr><td>031WAF108</td><td>52.17328,-2.23988</td><td>River Severn</td><td>River Severn in Worcestershire</td></tr>
-<tr><td>031WAF211</td><td>52.09152,-1.8645</td><td>River Isbourne, Badsey Brook, Honeybourne Brook, Bretforton Brook, Littleton Brook</td><td>River Isbourne, Badsey Brook, Honeybourne Brook, Bretforton Brook, Littleton Brook and their tributaries</td></tr>
-<tr><td>031WAF216</td><td>51.7488,-2.38688</td><td>River Frome, River Cam</td><td>Rivers Frome and Cam</td></tr>
+<tr><td>031WAF108</td><td>52.17335,-2.23989</td><td>River Severn</td><td>River Severn in Worcestershire</td></tr>
+<tr><td>031WAF211</td><td>52.09145,-1.86473</td><td>River Isbourne, Badsey Brook, Honeybourne Brook, Bretforton Brook, Littleton Brook</td><td>River Isbourne, Badsey Brook, Honeybourne Brook, Bretforton Brook, Littleton Brook and their tributaries</td></tr>
+<tr><td>031WAF216</td><td>51.73959,-2.13208</td><td>River Frome, River Cam</td><td>Rivers Frome and Cam</td></tr>
 <tr><td>061WAF06Coln</td><td>51.71839,-1.77205</td><td>River Coln, Dudgrove Brook</td><td>River Coln and its tributaries from Whittington to the confluence with The River Thames</td></tr>
 <tr><td>031FWFCH40</td><td>51.9274,-2.16168</td><td>River Chelt</td><td>River Chelt at Uckington and Boddington</td></tr>
 <tr><td>031FWFSE550</td><td>51.93953,-2.19669</td><td>River Severn</td><td>River Severn at Apperley and The Leigh including Deerhurst Walton and Prior's Norton</td></tr>
